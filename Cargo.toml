@@ -1,0 +1,8 @@
+[package]
+name = "idle-cave-miner-bot"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+device_query = "1.1"
+enigo = "0.1"
